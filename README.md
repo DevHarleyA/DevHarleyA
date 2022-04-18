@@ -5,6 +5,10 @@
 - 💞️ <strong>I’m looking to</strong> collaborate on projects that make a difference.
 - 📫 <strong>How to reach me:</strong> Email me for a consultation: aharleydev@gmail.com
 
+Here are some of my recent responsive design projects:
+
+- <strong>TechCrunch Replica</strong> - https://techcrunchproject.netlify.app/
+- <strong>New York Times Replica</strong> - https://nytproject.netlify.app/
 
 Want to see some of my most recent web application projects? Check them out at the links below!
 
