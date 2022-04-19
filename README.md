@@ -17,7 +17,6 @@ Want to see some of my most recent web application projects? Check them out at t
 - <strong>The Successful Sloth To Do List Generator</strong> - https://planslowlybud.netlify.app/
 - <strong>New Pokemon Trainer: Battle App</strong> - https://firstbattle.netlify.app/
 
-Portfolio - // Under Construction, Coming Soon! //
 <!---
 DevHarleyA/DevHarleyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
