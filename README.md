@@ -6,7 +6,8 @@
 - 📫 <strong>How to reach me:</strong> Email me for a consultation: aharleydev@gmail.com
 
 Here are some of my recent responsive design projects:
-
+- <strong>Level Ground</strong> - https://levelgroundprototype.netlify.app/
+- <strong>JWLIA Prototype</strong> - https://jwliaproto.netlify.app/
 - <strong>TechCrunch Replica</strong> - https://techcrunchproject.netlify.app/
 - <strong>New York Times Replica</strong> - https://nytproject.netlify.app/
 
