@@ -3,7 +3,7 @@
 - 👀 <strong>I’m interested in</strong> creating websites and web applications.
 - :computer: I write code. <img src="https://img.shields.io/badge/-HTML-orange"><img src="https://img.shields.io/badge/-CSS-blue"><img src="https://img.shields.io/badge/-JavaScript-yellow">
 - :earth_africa: <strong>I’m looking to</strong> collaborate on projects that makes a global difference
-- 📫 <strong>How to reach me:</strong> Email me for a consultation: aharleydev@gmail.com
+- 📫 <strong>How to reach me:</strong> Email me: aharleydev@gmail.com
 
 Recent Responsive Web projects:
 
