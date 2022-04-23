@@ -14,6 +14,7 @@ Recent Responsive Web projects:
 
 Recent Web Application Projects!
 
+- :panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)
 - :panda_face: [The Average Calulator](https://theaveragecalculator.netlify.app/)
 - :panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)
 - :panda_face: [The Successful Sloth To Do List Generator](https://planslowlybud.netlify.app/)
