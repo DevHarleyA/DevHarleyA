@@ -5,19 +5,15 @@
 - :earth_africa: <strong>I’m looking to</strong> collaborate on projects that makes a global difference
 - 📫 <strong>How to reach me:</strong> Email me: aharleydev@gmail.com
 
-Recent Responsive Web projects:
+A couple Responsive Web projects:
 
-- :panda_face: [Level Ground](https://levelgroundprototype.netlify.app/)
-- :panda_face: [JWLIA Prototype](https://jwliaproto.netlify.app/)
 - :panda_face: [TechCrunch Replica](https://techcrunchproject.netlify.app/)
 - :panda_face: [New York Times Replica](https://nytproject.netlify.app/)
 
-Recent Web Application Projects!
+A couple Web Application projects!
 
 - :panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)
-- :panda_face: [The Average Calulator](https://theaveragecalculator.netlify.app/)
 - :panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)
-- :panda_face: [The Successful Sloth To Do List Generator](https://planslowlybud.netlify.app/)
 - :panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)
 
 <!---
