@@ -1,5 +1,5 @@
 ![cover](https://user-images.githubusercontent.com/101942628/167476842-eb77e955-3569-4fec-9ec1-9b8101df03bc.png)
-# Who am I?
+## Who am I?
 - :alien: Hi, I’m <em>@DevHarleyA</em>
 - 👀 <strong>I’m interested in</strong> creating websites and web applications.
 - :computer: I write code.
@@ -18,16 +18,16 @@
 
 ## Projects
 ### Responsive Web projects:
-:panda_face: [TechCrunch Replica](https://techcrunchproject.netlify.app/)
-:panda_face: [New York Times Replica](https://nytproject.netlify.app/)
-:panda_face: [JWLIA](https://jwliaproto.netlify.app/)
-:panda_face: [Level Ground](https://levelgroundprototype.netlify.app/)
+:panda_face: [TechCrunch Replica](https://techcrunchproject.netlify.app/)</br>
+:panda_face: [New York Times Replica](https://nytproject.netlify.app/)</br>
+:panda_face: [JWLIA](https://jwliaproto.netlify.app/)</br>
+:panda_face: [Level Ground](https://levelgroundprototype.netlify.app/)</br>
 
-### Web Application projects!
-:panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)
-:panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)
-:panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)
-:panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)
+### Web Application projects:
+:panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)</br>
+:panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)</br>
+:panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)</br>
+:panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)</br>
 
 <!---
 DevHarleyA/DevHarleyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
