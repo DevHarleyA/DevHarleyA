@@ -17,19 +17,17 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 
 ## Projects
-Responsive Web projects:
+### Responsive Web projects:
+:panda_face: [TechCrunch Replica](https://techcrunchproject.netlify.app/)
+:panda_face: [New York Times Replica](https://nytproject.netlify.app/)
+:panda_face: [JWLIA](https://jwliaproto.netlify.app/)
+:panda_face: [Level Ground](https://levelgroundprototype.netlify.app/)
 
-- :panda_face: [TechCrunch Replica](https://techcrunchproject.netlify.app/)
-- :panda_face: [New York Times Replica](https://nytproject.netlify.app/)
-- :panda_face: [JWLIA](https://jwliaproto.netlify.app/)
-- :panda_face: [Level Ground](https://levelgroundprototype.netlify.app/)
-
-Web Application projects!
-
-- :panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)
-- :panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)
-- :panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)
-- :panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)
+### Web Application projects!
+:panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)
+:panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)
+:panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)
+:panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)
 
 <!---
 DevHarleyA/DevHarleyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
