@@ -1,9 +1,8 @@
 ![cover](https://user-images.githubusercontent.com/101942628/167476842-eb77e955-3569-4fec-9ec1-9b8101df03bc.png)
 ## Who am I?
 - :alien: Hi, I’m <em>@DevHarleyA</em>
-- 👀 <strong>I’m interested in</strong> creating websites and web applications.
 - :computer: I write code.
-- :earth_africa: <strong>I’m looking to</strong> collaborate on projects that makes a global difference
+- :earth_africa: <strong>I’m looking to</strong> collaborate on projects that makes a difference
 - 📫 <strong>How to reach me:</strong> Email me: aharleydev@gmail.com
 
 ## Technologies
@@ -29,6 +28,8 @@
 :panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)</br>
 :panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)</br>
 
+
+<!-- - 👀 <strong>I’m interested in</strong> creating websites and web applications. -->
 <!---
 DevHarleyA/DevHarleyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
