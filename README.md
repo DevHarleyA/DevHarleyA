@@ -2,7 +2,7 @@
 ## Who am I?
 - :alien: Hi, I’m <em>@DevHarleyA</em>
 - :computer: I write code.
-- :earth_africa: <strong>I’m looking to</strong> collaborate on projects that makes a difference
+- :earth_africa: <strong>I’m looking to</strong> collaborate on projects that make a difference
 - 📫 <strong>How to reach me:</strong> Email me: aharleydev@gmail.com
 
 ## Technologies
@@ -10,10 +10,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) -->
 
 ## Projects
 ### Responsive Web projects:
