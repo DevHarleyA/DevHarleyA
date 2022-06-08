@@ -14,6 +14,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devharleya&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Projects
 ### Responsive Web projects:
