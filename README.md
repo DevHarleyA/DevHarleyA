@@ -26,8 +26,14 @@
 ### Web Application projects:
 :panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)</br>
 :panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)</br>
-:panda_face: [New Pokemon Trainer: Battle App](https://firstbattle.netlify.app/)</br>
+:panda_face: [Rock Paper Scissors: Pokemon Version](https://firstbattle.netlify.app/)</br>
 :panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)</br>
+:panda_face: [Wu-Tang Name Generator](https://wutangnamegen.netlify.app)
+
+### Group Projects
+:panda_face: [The Popcorn Critic](https://popcorn-critic.netlify.app/)</br>
+
+More projects available on my portfolio site: [DevHarleyA's Portfolio](https://aharleydev.netlify.app)
 
 
 <!-- - 👀 <strong>I’m interested in</strong> creating websites and web applications. -->
