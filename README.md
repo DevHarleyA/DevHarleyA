@@ -33,7 +33,7 @@
 ### Group Projects
 :panda_face: [The Popcorn Critic](https://popcorn-critic.netlify.app/)</br>
 
-More projects available on my portfolio site: [DevHarleyA's Portfolio](https://aharleydev.netlify.app)
+<!-- More projects available on my portfolio site: [DevHarleyA's Portfolio](https://aharleydev.netlify.app) -->
 
 
 <!-- - 👀 <strong>I’m interested in</strong> creating websites and web applications. -->
