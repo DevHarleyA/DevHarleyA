@@ -2,8 +2,6 @@
 ## Who am I?
 - :alien: Hi, I’m <em>HarleyQ</em>
 - :computer: I write code.
-- :earth_africa: <strong>I’m looking to</strong> collaborate on projects that make a difference
-- 📫 <strong>How to reach me:</strong> Discord: Harlequixx
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
